@@ -1,10 +1,8 @@
-# projeto_integrador
+# Projeto Integrador
 
-A new Flutter project.
+ Aplicativo Agenda Solidadria.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+ Projeto criado e desenvolvido durate o curso FIC Senac minas 2022.
 
 A few resources to get you started if this is your first Flutter project:
 
